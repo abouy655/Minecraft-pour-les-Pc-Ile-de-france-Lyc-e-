@@ -1,2 +1,3 @@
 # Minecraft-pour-les-Pc-Ile-de-france-Lyc-e-
-Dans ce petit dépot tu trouveras le fichier .jar de minecraft et le dossier java pour ouvrir le .jar. Il te faudra également mettre java dans une variable d'environnement path en utilisant Windows+R et en tapant ceci : rundll32.exe sysdm.cpl,EditEnvironmentVariables
+Salut ! Voici comment tu peut jouer simplement à un jeu comme Minecraft sur un PC Région lycée en France.
+Dans ce petit dépot tu trouveras le fichier .jar de minecraft, un fichier .bat qui te permet l'ouverture du .jar et le dossier java pour ouvrir le .jar. Il te faudra également mettre java dans une variable d'environnement path en utilisant Windows+R et en tapant ceci : rundll32.exe sysdm.cpl,EditEnvironmentVariables. Ensuite clique sur "PATH" puis sur "NOUVEAU" et entre le chemin du dossier java\bin. Après cela tu peux ouvrir l'executable .bat et te voilà avec Minecraft (version cracké Tlauncher) sur le PC du Lycée.
